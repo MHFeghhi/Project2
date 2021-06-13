@@ -101,7 +101,7 @@
     border: 2px solid hsl(179, 100%, 13%);
 }
 
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 375px) {
     .cars {
         display: block;
     }
